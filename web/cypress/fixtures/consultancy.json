@@ -1,0 +1,50 @@
+{
+    "personal": {
+        "name": "Fulano Beltrano",
+        "email": "fulano@teste.com",
+        "phone": "11968246344",
+        "consultancyType": "Individual",
+        "personType": "cpf",
+        "document": "22160079006",
+        "discoveryChannels": [
+            "Instagram",
+            "YouTube",
+            "LinkedIn",
+            "Indicação de Amigo",
+            "Udemy"
+        ],
+        "file": "./cypress/fixtures/document.pdf",
+        "description": "Lorem ipsum dolor sit amet. Et accusamus iure ab Quis temporibus hic soluta labore aut expedita nesciunt. Ad eveniet laborum sit nisi nobis qui consequatur debitis.",
+        "techs": [
+            "Cypress",
+            "Selenium",
+            "Playwright",
+            "Robot Framework"
+        ],
+        "terms": true
+    },
+    "company": {
+        "name": "Fulano Beltrano",
+        "email": "fulano@teste.com",
+        "phone": "11968246344",
+        "consultancyType": "In Company",
+        "personType": "cnpj",
+        "document": "95131359000104",
+        "discoveryChannels": [
+            "Instagram",
+            "YouTube",
+            "LinkedIn",
+            "Indicação de Amigo",
+            "Udemy"
+        ],
+        "file": "./cypress/fixtures/document.pdf",
+        "description": "Lorem ipsum dolor sit amet. Et accusamus iure ab Quis temporibus hic soluta labore aut expedita nesciunt. Ad eveniet laborum sit nisi nobis qui consequatur debitis.",
+        "techs": [
+            "Cypress",
+            "Selenium",
+            "Playwright",
+            "Robot Framework"
+        ],
+        "terms": true
+    }
+}
