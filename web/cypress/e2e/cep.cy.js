@@ -12,6 +12,8 @@ describe('CEP', () => {
         cy.get('#cep').type(address.cep)
         cy.contains('button', 'Buscar').click()
 
+        cy.wait(5500)
+
         cy.get('#street')
             .should('have.value', address.street)
 
